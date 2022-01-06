@@ -1,0 +1,112 @@
+body{font-family: 'Noto Serif', serif;
+     margin: 0;
+}
+
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 80%;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.linear-gradient{
+    font-size: 40px;
+    margin-top: 30%;
+    padding-left: 2%;
+    border-left: 5px solid;   
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;   
+}
+
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+    border-radius: 5%;
+    padding: 10px 30px;
+    border-radius:5%;
+}
+
+
+.topic{
+    text-align: center;
+    font-size: 30px;
+}
+
+.little-img{width: 50%;}
+
+#plan-a{
+    width: 22%;
+    margin-left: 10%;
+    margin-right: 0;
+    padding-left: 2%;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+
+#plan-b{
+    width: 22%;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    padding-left: 2%;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+
+#plan-c{
+    width: 22%;
+    margin-left: 0;
+    margin-right: 10%;
+    padding-left: 2%;
+    background-color: greenyellow;
+    border-radius: 15px;
+}
+
+#third{
+    background-image: url(shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    width: 5%;
+}
