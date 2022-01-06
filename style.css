@@ -51,7 +51,7 @@ section {
     margin-left: 10%;
     margin-right: 0;
     padding-left: 2%;
-    background-color: greenyellow;
+    background-color: rgb(213, 238, 238);
     border-radius: 15px;
 }
 
@@ -60,7 +60,7 @@ section {
     margin-left: 3.5%;
     margin-right: 3.5%;
     padding-left: 2%;
-    background-color: greenyellow;
+    background-color: rgb(231, 213, 216);
     border-radius: 15px;
 }
 
@@ -69,15 +69,29 @@ section {
     margin-left: 0;
     margin-right: 10%;
     padding-left: 2%;
-    background-color: greenyellow;
+    background-color: rgb(238, 238, 222);
     border-radius: 15px;
 }
 
 #third{
-    background-image: url(shape-1.png);
-    background-position: left;
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
 }
+
+footer{
+    background-color: black;
+    padding: 10px 30%;
+}
+footer h1 {
+    color: white;
+    text-align: center;
+} 
+footer p{
+    color: white;
+    text-align: center;
+} 
+
 
 
 
